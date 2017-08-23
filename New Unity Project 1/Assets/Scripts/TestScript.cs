@@ -8,10 +8,10 @@ public class TestScript : MonoBehaviour {
 
         int clockface;
     int A = 1;
-    int A = 1;
-    int A = 1;
-    int A = 1;
-    int A = 1;
+    int B = 1;
+    int C = 1;
+    int D = 1;
+    int E = 1;
 
     // Use this for initialization
     void Start () {
