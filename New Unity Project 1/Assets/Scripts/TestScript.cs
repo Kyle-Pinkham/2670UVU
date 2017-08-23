@@ -11,6 +11,7 @@ public class TestScript : MonoBehaviour {
 	void Start () {
 
         print(Time.deltaTime);
+        print(clockface);
 	}
 	
 	// Update is called once per frame
