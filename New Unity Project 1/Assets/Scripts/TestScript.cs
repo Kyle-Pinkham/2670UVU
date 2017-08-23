@@ -26,14 +26,25 @@ public class TestScript : MonoBehaviour {
 	void OnTriggerEnter () {
         int randomnum = Random.Range(0, 11) ;
 
-        if (randomnum < 5)
+        if (randomnum <= 5)
         {
             switch (randomnum) {
                 case 1:
-                    print("case1");
+                    print(A);
+                    break;
+                case 2:
+                    print(B);
+                    break;
+                case 3:
+                    print(C);
+                    break;
+                case 4:
+                    print(D);
+                    break;
+                case 5:
+                    print(E);
                     break;
                 default:
-                    print("you succcck");
                     break;
             }
         }
