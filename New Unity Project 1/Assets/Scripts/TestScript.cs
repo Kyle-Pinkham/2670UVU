@@ -9,7 +9,8 @@ public class TestScript : MonoBehaviour {
         int clockface;
 	// Use this for initialization
 	void Start () {
-		
+
+        print(Time.deltaTime);
 	}
 	
 	// Update is called once per frame
