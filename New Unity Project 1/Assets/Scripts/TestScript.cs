@@ -28,7 +28,14 @@ public class TestScript : MonoBehaviour {
 
         if (randomnum < 5)
         {
-
+            switch (randomnum) {
+                case 1:
+                    print("case1");
+                    break;
+                default:
+                    print("you succcck");
+                    break;
+            }
         }
 	}
 }
