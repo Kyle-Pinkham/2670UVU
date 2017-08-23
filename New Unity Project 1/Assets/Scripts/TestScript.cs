@@ -6,7 +6,7 @@ public class TestScript : MonoBehaviour {
 
     //Adding a comment that questions the purpose of having 50+ commits on a project with no clear goal yet.
 
-        int one = 1;
+        int clockface = 1;
 	// Use this for initialization
 	void Start () {
 		
