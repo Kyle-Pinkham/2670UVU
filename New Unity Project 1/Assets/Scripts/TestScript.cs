@@ -13,6 +13,7 @@ public class TestScript : MonoBehaviour {
         print(Time.deltaTime);
         print(clockface);
         // printing time.deltatime counts as a clock face anthony. Dont judge me.
+        //having to do all these commits... it fills me with determination.
 
 	}
 	
