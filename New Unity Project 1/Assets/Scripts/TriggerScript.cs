@@ -10,7 +10,8 @@ public class TriggerScript : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void OnTriggerExit () {
+	void OnTriggerExit() {
         print("Exit");
-	}
+
+    }
 }
