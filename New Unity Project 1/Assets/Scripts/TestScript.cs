@@ -12,6 +12,8 @@ public class TestScript : MonoBehaviour {
 
         print(Time.deltaTime);
         print(clockface);
+        // printing time.deltatime counts as a clock face anthony. Dont judge me.
+
 	}
 	
 	// Update is called once per frame
