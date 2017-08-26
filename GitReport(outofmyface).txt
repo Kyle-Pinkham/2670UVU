@@ -1,0 +1,43 @@
+Why is this a .Txt file?
+Doesnt matter.Anthony said so. Hail Git.
+
+Kyle Pinkham
+DGM-2670
+Romrell, Anthony
+8.25.2017
+
+	Why you should "'Git' Gud"
+
+Git is incredible in the sense that you can have a very easy to manipulate workspace with
+the ability to coordinate with other (Large) groups of people. In large production pipelines, 
+this can make a huge difference in the ability to create content without messing up the entire
+project as a whole. But why Use Git? Why does Anthony have a secret shrine in his office dedicated
+soley to octocats and other Git paraphernalia?
+
+Because If you have a branch, you cant mess anything up. Let me repeat this- If you commit under 
+a branch and not in the main area, you cannot lose your data. You can't mess it up because its 
+only working under the branch you work on for that feature. This is invaluable when you are dealing
+with students who have all different ideas on how things should work when our main tool is going
+to be working "by doing" with instructor guidence and support.
+
+In addition, if one person (Anthony in this case) has access to the main Repo (ours only being forks
+of said repo) Then *we* also cant screw anything up for the rest of our team. Thats actually really
+cool. Also, Git- as frustrating as it can be for new users, is used pretty much everywhere. Git in
+some form (many of which can be utilized using gitkraken as a gui interface) is used In major coding
+projects pretty much everywhere, which makes the entire thing a little bit more appealing to use.
+
+In addition to the above benefits- It's extremely lightweight. there aren't a lot of different nuainces
+that make using github or gitkraken heavy on your computer which is great if you are commiting a lot 
+to a project. Git krakens Gui also helped me wrap my head around the way branches can work for coding 
+in larger teams.
+
+I dont really know enough about coding to elaborate on this. Git lets you branch, test things, fix
+conflicting code merges, allow for good, clean file transfers, is extremely lightweight, supports
+a lot for fixing projects from multipule angles to make sure it doesnt get completely destroyed by 
+one person's collab on the project, and is recognized by a Kraken, which is obviously the best feature
+of gitkraken.
+
+
+
+
+-Kyle Pinkham
