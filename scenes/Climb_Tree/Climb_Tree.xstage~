@@ -350,7 +350,7 @@
      <elementSeq exposures="36-37" val="17" id="8"/>
      <elementSeq exposures="38-39" val="18" id="8"/>
      <elementSeq exposures="40-41" val="19" id="8"/>
-     <elementSeq exposures="42" val="20" id="8"/>
+     <elementSeq exposures="42-44" val="20" id="8"/>
     </column>
     <column type="0" name="RightLeg" displayOrder="8" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-3" val="1" id="9"/>
