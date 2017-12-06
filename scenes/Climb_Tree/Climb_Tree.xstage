@@ -120,6 +120,26 @@
     <dwg name="9" scaleFactor="1"/>
     <dwg name="10" scaleFactor="1"/>
     <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="17" scaleFactor="1"/>
+    <dwg name="18" scaleFactor="1"/>
+    <dwg name="19" scaleFactor="1"/>
+    <dwg name="20" scaleFactor="1"/>
+    <dwg name="21" scaleFactor="1"/>
+    <dwg name="22" scaleFactor="1"/>
+    <dwg name="23" scaleFactor="1"/>
+    <dwg name="24" scaleFactor="1"/>
+    <dwg name="25" scaleFactor="1"/>
+    <dwg name="26" scaleFactor="1"/>
+    <dwg name="27" scaleFactor="1"/>
+    <dwg name="28" scaleFactor="1"/>
+    <dwg name="29" scaleFactor="1"/>
+    <dwg name="30" scaleFactor="1"/>
+    <dwg name="31" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="7" elementName="RightArm" elementFolder="RightArm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -234,7 +254,7 @@
  <scenes>
   <scene name="Top" id="08d5ccc2573008e1" nbframes="44">
    <columns>
-    <column type="0" name="Drawing" display="false" displayOrder="1" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-3" val="1" id="1"/>
      <elementSeq exposures="4-5" val="14" id="1"/>
      <elementSeq exposures="6-7" val="11" id="1"/>
@@ -258,7 +278,7 @@
      <elementSeq exposures="44" val="23" id="1"/>
      <elementSeq exposures="50" val="9" id="1"/>
     </column>
-    <column type="0" name="ATV-08D5CCC257302718" displayOrder="2" width="100" anonymous="true" id="3">
+    <column type="0" name="ATV-08D5CCC257302718" display="false" displayOrder="2" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
      <elementSeq exposures="2" val="2" id="3"/>
      <elementSeq exposures="3" val="3" id="3"/>
@@ -310,7 +330,7 @@
      <elementSeq exposures="49" val="49" id="3"/>
      <elementSeq exposures="50" val="50" id="3"/>
     </column>
-    <column type="0" name="Torso" display="false" displayOrder="4" width="100" anonymous="true" id="5">
+    <column type="0" name="Torso" displayOrder="4" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-3" val="1" id="5"/>
      <elementSeq exposures="4-5" val="2" id="5"/>
      <elementSeq exposures="6-7" val="3" id="5"/>
@@ -333,13 +353,32 @@
      <elementSeq exposures="42-43" val="20" id="5"/>
      <elementSeq exposures="44" val="21" id="5"/>
     </column>
-    <column type="0" name="LeftArm" display="false" displayOrder="5" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1" val="1" id="6"/>
+    <column type="0" name="LeftArm" displayOrder="5" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1-3" val="1" id="6"/>
+     <elementSeq exposures="4-5" val="12" id="6"/>
+     <elementSeq exposures="6-7" val="13" id="6"/>
+     <elementSeq exposures="8-9" val="14" id="6"/>
+     <elementSeq exposures="10-11" val="15" id="6"/>
+     <elementSeq exposures="12-13" val="16" id="6"/>
+     <elementSeq exposures="14-15" val="17" id="6"/>
+     <elementSeq exposures="16-17" val="18" id="6"/>
+     <elementSeq exposures="18-19" val="19" id="6"/>
+     <elementSeq exposures="20-21" val="20" id="6"/>
+     <elementSeq exposures="22-23" val="21" id="6"/>
+     <elementSeq exposures="24-25" val="22" id="6"/>
+     <elementSeq exposures="26-29" val="23" id="6"/>
+     <elementSeq exposures="30-31" val="24" id="6"/>
+     <elementSeq exposures="32-33" val="25" id="6"/>
+     <elementSeq exposures="34-35" val="26" id="6"/>
+     <elementSeq exposures="36-37" val="27" id="6"/>
+     <elementSeq exposures="38-39" val="29" id="6"/>
+     <elementSeq exposures="40-41" val="30" id="6"/>
+     <elementSeq exposures="42" val="31" id="6"/>
     </column>
-    <column type="0" name="RightArm" display="false" displayOrder="6" width="100" anonymous="true" id="7">
+    <column type="0" name="RightArm" displayOrder="6" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
     </column>
-    <column type="0" name="LeftLeg" displayOrder="7" width="100" anonymous="true" id="8">
+    <column type="0" name="LeftLeg" display="false" displayOrder="7" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-3" val="1" id="8"/>
      <elementSeq exposures="4-5" val="2" id="8"/>
      <elementSeq exposures="6-7" val="3" id="8"/>
@@ -361,7 +400,7 @@
      <elementSeq exposures="40-41" val="19" id="8"/>
      <elementSeq exposures="42-44" val="20" id="8"/>
     </column>
-    <column type="0" name="RightLeg" display="false" displayOrder="8" width="100" anonymous="true" id="9">
+    <column type="0" name="RightLeg" displayOrder="8" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-3" val="1" id="9"/>
      <elementSeq exposures="4-5" val="2" id="9"/>
      <elementSeq exposures="6-7" val="3" id="9"/>
@@ -384,7 +423,7 @@
      <elementSeq exposures="42-43" val="21" id="9"/>
      <elementSeq exposures="44" val="22" id="9"/>
     </column>
-    <column type="0" name="ATV-08E0D53906F2CFE8" color="#FFFFFFFF" display="false" displayOrder="3" width="100" anonymous="true" id="10">
+    <column type="0" name="ATV-08E0D53906F2CFE8" color="#FFFFFFFF" displayOrder="3" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-3" val="1" id="10"/>
      <elementSeq exposures="4-5" val="21" id="10"/>
      <elementSeq exposures="6-7" val="22" id="10"/>
@@ -468,8 +507,6 @@
      </module>
      <module type="READ" name="Drawing" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
-       <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -680,7 +717,6 @@
      <module type="READ" name="Head_1" pos="0,0,0" publishUnderTab="Head">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -786,7 +822,6 @@
      <module type="READ" name="Torso" pos="0,0,0" publishUnderTab="Torso">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -891,8 +926,6 @@
      </module>
      <module type="READ" name="LeftArm" pos="0,0,0" publishUnderTab="LeftArm">
       <options>
-       <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -998,7 +1031,6 @@
      <module type="READ" name="RightArm" pos="0,0,0" publishUnderTab="RightArm">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1103,6 +1135,7 @@
      </module>
      <module type="READ" name="LeftLeg" pos="0,0,0" publishUnderTab="LeftLeg">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1208,7 +1241,6 @@
      <module type="READ" name="RightLeg" pos="0,0,0" publishUnderTab="RightLeg">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
