@@ -272,7 +272,7 @@
      <elementSeq exposures="60-65" val="11" id="1"/>
      <elementSeq exposures="66" val="12" id="1"/>
     </column>
-    <column type="0" name="ATV-08D24415913010CE" displayOrder="10" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-08D24415913010CE" display="false" displayOrder="10" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
@@ -345,7 +345,7 @@
      <elementSeq exposures="6-11" val="2" id="3"/>
      <elementSeq exposures="12" val="3" id="3"/>
     </column>
-    <column type="0" name="ATV-08D6C89305534A2F" color="#FFFFFFFF" displayOrder="4" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-08D6C89305534A2F" color="#FFFFFFFF" display="false" displayOrder="4" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-2" val="1" id="4"/>
      <elementSeq exposures="3-5" val="13" id="4"/>
      <elementSeq exposures="6-9" val="2" id="4"/>
@@ -367,7 +367,7 @@
     <column type="0" name="ATV-08D7B889499024CF" displayOrder="3" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-66" val="1" id="5"/>
     </column>
-    <column type="0" name="Head" displayOrder="5" width="100" anonymous="true" id="6">
+    <column type="0" name="Head" display="false" displayOrder="5" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-2" val="1" id="6"/>
      <elementSeq exposures="3-5" val="3" id="6"/>
      <elementSeq exposures="6-9" val="4" id="6"/>
@@ -385,7 +385,7 @@
      <elementSeq exposures="54-59" val="16" id="6"/>
      <elementSeq exposures="60-65" val="17" id="6"/>
     </column>
-    <column type="0" name="Torso" displayOrder="7" width="100" anonymous="true" id="7">
+    <column type="0" name="Torso" display="false" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="1-2" val="1" id="7"/>
      <elementSeq exposures="3-5" val="2" id="7"/>
      <elementSeq exposures="6-9" val="3" id="7"/>
@@ -403,7 +403,7 @@
      <elementSeq exposures="54-59" val="15" id="7"/>
      <elementSeq exposures="60-65" val="16" id="7"/>
     </column>
-    <column type="0" name="Arms" displayOrder="6" width="100" anonymous="true" id="8">
+    <column type="0" name="Arms" display="false" displayOrder="6" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-2" val="1" id="8"/>
      <elementSeq exposures="3-5" val="2" id="8"/>
      <elementSeq exposures="6-9" val="3" id="8"/>
@@ -439,7 +439,7 @@
      <elementSeq exposures="54-59" val="15" id="9"/>
      <elementSeq exposures="60-65" val="16" id="9"/>
     </column>
-    <column type="0" name="ATV-08DF48D851EB0EA3" color="#FFFFFFFF" displayOrder="9" width="100" anonymous="true" id="12">
+    <column type="0" name="ATV-08DF48D851EB0EA3" color="#FFFFFFFF" display="false" displayOrder="9" width="100" anonymous="true" id="12">
      <elementSeq exposures="1-2" val="1" id="12"/>
      <elementSeq exposures="3-5" val="2" id="12"/>
      <elementSeq exposures="6-9" val="3" id="12"/>
@@ -834,6 +834,7 @@
      </module>
      <module type="READ" name="Drawing_2" pos="0,0,0" publishUnderTab="Drawing">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -938,6 +939,7 @@
      </module>
      <module type="READ" name="Head" pos="0,0,0" publishUnderTab="Head">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1042,6 +1044,7 @@
      </module>
      <module type="READ" name="Arms" pos="0,0,0" publishUnderTab="Arms">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1146,6 +1149,7 @@
      </module>
      <module type="READ" name="Torso" pos="0,0,0" publishUnderTab="Torso">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1354,6 +1358,7 @@
      </module>
      <module type="READ" name="Legs_1" pos="0,0,0" publishUnderTab="Legs">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1458,6 +1463,7 @@
      </module>
      <module type="READ" name="OB_run" pos="0,0,0" publishUnderTab="OB_run">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
