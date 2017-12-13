@@ -367,7 +367,7 @@
     <column type="0" name="ATV-08D7B889499024CF" displayOrder="3" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-66" val="1" id="5"/>
     </column>
-    <column type="0" name="Head" display="false" displayOrder="5" width="100" anonymous="true" id="6">
+    <column type="0" name="Head" displayOrder="5" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-2" val="1" id="6"/>
      <elementSeq exposures="3-5" val="3" id="6"/>
      <elementSeq exposures="6-9" val="4" id="6"/>
@@ -385,7 +385,7 @@
      <elementSeq exposures="54-59" val="16" id="6"/>
      <elementSeq exposures="60-65" val="17" id="6"/>
     </column>
-    <column type="0" name="Torso" display="false" displayOrder="7" width="100" anonymous="true" id="7">
+    <column type="0" name="Torso" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="1-2" val="1" id="7"/>
      <elementSeq exposures="3-5" val="2" id="7"/>
      <elementSeq exposures="6-9" val="3" id="7"/>
@@ -403,7 +403,7 @@
      <elementSeq exposures="54-59" val="15" id="7"/>
      <elementSeq exposures="60-65" val="16" id="7"/>
     </column>
-    <column type="0" name="Arms" display="false" displayOrder="6" width="100" anonymous="true" id="8">
+    <column type="0" name="Arms" displayOrder="6" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-2" val="1" id="8"/>
      <elementSeq exposures="3-5" val="2" id="8"/>
      <elementSeq exposures="6-9" val="3" id="8"/>
@@ -939,7 +939,6 @@
      </module>
      <module type="READ" name="Head" pos="0,0,0" publishUnderTab="Head">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1044,7 +1043,6 @@
      </module>
      <module type="READ" name="Arms" pos="0,0,0" publishUnderTab="Arms">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1149,7 +1147,6 @@
      </module>
      <module type="READ" name="Torso" pos="0,0,0" publishUnderTab="Torso">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
