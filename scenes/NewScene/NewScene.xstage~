@@ -1,224 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Essentials (HarmonyEssentials.exe) version 15.0.0 build 13055 2017-10-12 14:25:19" version="1500" build="13055" creator="harmony">
+<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.0 build 11461 2016-06-21 14:02:21" version="1400" build="11461" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1" key="0"/>
-    <dwg name="2" key="0"/>
-    <dwg name="3" key="0"/>
-    <dwg name="4" key="0"/>
-    <dwg name="5" key="0"/>
-    <dwg name="6" key="0"/>
-    <dwg name="7" key="0"/>
-    <dwg name="8" key="0"/>
-    <dwg name="9" key="0"/>
-    <dwg name="10" key="0"/>
-    <dwg name="11" key="0"/>
-    <dwg name="12" key="0"/>
-    <dwg name="13" key="1"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
-    <dwg name="17"/>
-    <dwg name="18"/>
-    <dwg name="19"/>
-    <dwg name="20"/>
-    <dwg name="21"/>
-    <dwg name="22"/>
+    <dwg name="1" scaleFactor="1" key="0"/>
+    <dwg name="2" scaleFactor="1" key="0"/>
+    <dwg name="3" scaleFactor="1" key="0"/>
+    <dwg name="4" scaleFactor="1" key="0"/>
+    <dwg name="5" scaleFactor="1" key="0"/>
+    <dwg name="6" scaleFactor="1" key="0"/>
+    <dwg name="7" scaleFactor="1" key="0"/>
+    <dwg name="8" scaleFactor="1" key="0"/>
+    <dwg name="9" scaleFactor="1" key="0"/>
+    <dwg name="10" scaleFactor="1" key="0"/>
+    <dwg name="11" scaleFactor="1" key="0"/>
+    <dwg name="12" scaleFactor="1" key="0"/>
+    <dwg name="13" scaleFactor="1" key="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="17" scaleFactor="1"/>
+    <dwg name="18" scaleFactor="1"/>
+    <dwg name="19" scaleFactor="1"/>
+    <dwg name="20" scaleFactor="1"/>
+    <dwg name="21" scaleFactor="1"/>
+    <dwg name="22" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="2" elementName="OB_run" elementFolder="OB_run" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
-    <dwg name="17"/>
-    <dwg name="18"/>
-    <dwg name="19"/>
-    <dwg name="20"/>
-    <dwg name="21"/>
-    <dwg name="22"/>
-    <dwg name="23"/>
-    <dwg name="24"/>
-    <dwg name="25"/>
-    <dwg name="26"/>
-    <dwg name="27"/>
-    <dwg name="28"/>
-    <dwg name="29"/>
-    <dwg name="30"/>
-    <dwg name="31"/>
-    <dwg name="32"/>
-    <dwg name="33"/>
-    <dwg name="34"/>
-    <dwg name="35"/>
-    <dwg name="36"/>
-    <dwg name="37"/>
-    <dwg name="38"/>
-    <dwg name="39"/>
-    <dwg name="40"/>
-    <dwg name="41"/>
-    <dwg name="42"/>
-    <dwg name="43"/>
-    <dwg name="44"/>
-    <dwg name="45"/>
-    <dwg name="46"/>
-    <dwg name="47"/>
-    <dwg name="48"/>
-    <dwg name="49"/>
-    <dwg name="50"/>
-    <dwg name="51"/>
-    <dwg name="52"/>
-    <dwg name="53"/>
-    <dwg name="54"/>
-    <dwg name="55"/>
-    <dwg name="56"/>
-    <dwg name="57"/>
-    <dwg name="58"/>
-    <dwg name="59"/>
-    <dwg name="60"/>
-    <dwg name="61"/>
-    <dwg name="62"/>
-    <dwg name="63"/>
-    <dwg name="64"/>
-    <dwg name="65"/>
-    <dwg name="66"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="17" scaleFactor="1"/>
+    <dwg name="18" scaleFactor="1"/>
+    <dwg name="19" scaleFactor="1"/>
+    <dwg name="20" scaleFactor="1"/>
+    <dwg name="21" scaleFactor="1"/>
+    <dwg name="22" scaleFactor="1"/>
+    <dwg name="23" scaleFactor="1"/>
+    <dwg name="24" scaleFactor="1"/>
+    <dwg name="25" scaleFactor="1"/>
+    <dwg name="26" scaleFactor="1"/>
+    <dwg name="27" scaleFactor="1"/>
+    <dwg name="28" scaleFactor="1"/>
+    <dwg name="29" scaleFactor="1"/>
+    <dwg name="30" scaleFactor="1"/>
+    <dwg name="31" scaleFactor="1"/>
+    <dwg name="32" scaleFactor="1"/>
+    <dwg name="33" scaleFactor="1"/>
+    <dwg name="34" scaleFactor="1"/>
+    <dwg name="35" scaleFactor="1"/>
+    <dwg name="36" scaleFactor="1"/>
+    <dwg name="37" scaleFactor="1"/>
+    <dwg name="38" scaleFactor="1"/>
+    <dwg name="39" scaleFactor="1"/>
+    <dwg name="40" scaleFactor="1"/>
+    <dwg name="41" scaleFactor="1"/>
+    <dwg name="42" scaleFactor="1"/>
+    <dwg name="43" scaleFactor="1"/>
+    <dwg name="44" scaleFactor="1"/>
+    <dwg name="45" scaleFactor="1"/>
+    <dwg name="46" scaleFactor="1"/>
+    <dwg name="47" scaleFactor="1"/>
+    <dwg name="48" scaleFactor="1"/>
+    <dwg name="49" scaleFactor="1"/>
+    <dwg name="50" scaleFactor="1"/>
+    <dwg name="51" scaleFactor="1"/>
+    <dwg name="52" scaleFactor="1"/>
+    <dwg name="53" scaleFactor="1"/>
+    <dwg name="54" scaleFactor="1"/>
+    <dwg name="55" scaleFactor="1"/>
+    <dwg name="56" scaleFactor="1"/>
+    <dwg name="57" scaleFactor="1"/>
+    <dwg name="58" scaleFactor="1"/>
+    <dwg name="59" scaleFactor="1"/>
+    <dwg name="60" scaleFactor="1"/>
+    <dwg name="61" scaleFactor="1"/>
+    <dwg name="62" scaleFactor="1"/>
+    <dwg name="63" scaleFactor="1"/>
+    <dwg name="64" scaleFactor="1"/>
+    <dwg name="65" scaleFactor="1"/>
+    <dwg name="66" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="3" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="4" elementName="Drawing" elementFolder="Drawing.4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1" key="0"/>
-    <dwg name="13" key="1"/>
-    <dwg name="2" key="0"/>
-    <dwg name="14"/>
-    <dwg name="3" key="0"/>
-    <dwg name="15"/>
-    <dwg name="4" key="0"/>
-    <dwg name="16"/>
-    <dwg name="5" key="0"/>
-    <dwg name="17"/>
-    <dwg name="6" key="0"/>
-    <dwg name="7" key="0"/>
-    <dwg name="8" key="0"/>
-    <dwg name="9" key="0"/>
-    <dwg name="10" key="0"/>
-    <dwg name="11" key="0"/>
-    <dwg name="12" key="0"/>
+    <dwg name="1" scaleFactor="1" key="0"/>
+    <dwg name="13" scaleFactor="1" key="1"/>
+    <dwg name="2" scaleFactor="1" key="0"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1" key="0"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1" key="0"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1" key="0"/>
+    <dwg name="17" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1" key="0"/>
+    <dwg name="7" scaleFactor="1" key="0"/>
+    <dwg name="8" scaleFactor="1" key="0"/>
+    <dwg name="9" scaleFactor="1" key="0"/>
+    <dwg name="10" scaleFactor="1" key="0"/>
+    <dwg name="11" scaleFactor="1" key="0"/>
+    <dwg name="12" scaleFactor="1" key="0"/>
    </drawings>
   </element>
   <element id="5" elementName="Drawing_3" elementFolder="Drawing_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
+    <dwg name="1" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="6" elementName="Head" elementFolder="Head" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="2" key="0"/>
-    <dwg name="1"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
-    <dwg name="17"/>
+    <dwg name="2" scaleFactor="1" key="0"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="17" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="7" elementName="Torso" elementFolder="Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="8" elementName="Arms" elementFolder="Arms" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
+    <dwg name="17" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="9" elementName="Legs" elementFolder="Legs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="12" elementName="Legs" elementFolder="Legs.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
+    <dwg name="9" scaleFactor="1"/>
+    <dwg name="10" scaleFactor="1"/>
+    <dwg name="11" scaleFactor="1"/>
+    <dwg name="12" scaleFactor="1"/>
+    <dwg name="13" scaleFactor="1"/>
+    <dwg name="14" scaleFactor="1"/>
+    <dwg name="15" scaleFactor="1"/>
+    <dwg name="16" scaleFactor="1"/>
    </drawings>
   </element>
  </elements>
@@ -228,7 +239,6 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
-  <pixelPerModelUnitForVectorLayers val="0.28799999999999998"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -236,9 +246,9 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="08d2441591300882" nbframes="66">
+  <scene name="Top" id="08d2441591300882" nbframes="65">
    <columns>
-    <column type="0" name="Drawing" display="false" displayOrder="2" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="2" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="1" id="1"/>
      <elementSeq exposures="3-5" val="13" id="1"/>
      <elementSeq exposures="6-7" val="2" id="1"/>
@@ -373,7 +383,7 @@
      <elementSeq exposures="42-47" val="14" id="6"/>
      <elementSeq exposures="48-53" val="15" id="6"/>
      <elementSeq exposures="54-59" val="16" id="6"/>
-     <elementSeq exposures="60" val="17" id="6"/>
+     <elementSeq exposures="60-65" val="17" id="6"/>
     </column>
     <column type="0" name="Torso" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="1-2" val="1" id="7"/>
@@ -391,7 +401,7 @@
      <elementSeq exposures="42-47" val="13" id="7"/>
      <elementSeq exposures="48-53" val="14" id="7"/>
      <elementSeq exposures="54-59" val="15" id="7"/>
-     <elementSeq exposures="60" val="16" id="7"/>
+     <elementSeq exposures="60-65" val="16" id="7"/>
     </column>
     <column type="0" name="Arms" displayOrder="6" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-2" val="1" id="8"/>
@@ -399,8 +409,19 @@
      <elementSeq exposures="6-9" val="3" id="8"/>
      <elementSeq exposures="10-11" val="4" id="8"/>
      <elementSeq exposures="12-15" val="5" id="8"/>
+     <elementSeq exposures="16-17" val="7" id="8"/>
+     <elementSeq exposures="18-21" val="8" id="8"/>
+     <elementSeq exposures="22-23" val="9" id="8"/>
+     <elementSeq exposures="24-27" val="10" id="8"/>
+     <elementSeq exposures="28-29" val="11" id="8"/>
+     <elementSeq exposures="30-35" val="12" id="8"/>
+     <elementSeq exposures="36-41" val="13" id="8"/>
+     <elementSeq exposures="42-47" val="14" id="8"/>
+     <elementSeq exposures="48-53" val="15" id="8"/>
+     <elementSeq exposures="54-59" val="16" id="8"/>
+     <elementSeq exposures="60-65" val="17" id="8"/>
     </column>
-    <column type="0" name="Legs_1" display="false" displayOrder="8" width="100" anonymous="true" id="9">
+    <column type="0" name="Legs_1" displayOrder="8" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-2" val="1" id="9"/>
      <elementSeq exposures="3-5" val="2" id="9"/>
      <elementSeq exposures="6-9" val="3" id="9"/>
@@ -416,7 +437,7 @@
      <elementSeq exposures="42-47" val="13" id="9"/>
      <elementSeq exposures="48-53" val="14" id="9"/>
      <elementSeq exposures="54-59" val="15" id="9"/>
-     <elementSeq exposures="60" val="16" id="9"/>
+     <elementSeq exposures="60-65" val="16" id="9"/>
     </column>
     <column type="0" name="ATV-08DF48D851EB0EA3" color="#FFFFFFFF" displayOrder="9" width="100" anonymous="true" id="12">
      <elementSeq exposures="1-2" val="1" id="12"/>
@@ -434,7 +455,7 @@
      <elementSeq exposures="42-47" val="13" id="12"/>
      <elementSeq exposures="48-53" val="14" id="12"/>
      <elementSeq exposures="54-59" val="15" id="12"/>
-     <elementSeq exposures="60" val="16" id="12"/>
+     <elementSeq exposures="60-65" val="16" id="12"/>
     </column>
    </columns>
    <options>
@@ -447,8 +468,8 @@
     <nodeslist>
      <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -466,20 +487,19 @@
      </module>
      <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
      </module>
      <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
-       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -500,8 +520,8 @@
      <module type="READ" name="Drawing_1" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -575,10 +595,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -609,8 +625,8 @@
      <module type="READ" name="Drawing" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -684,10 +700,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -718,8 +730,8 @@
      <module type="READ" name="Drawing_3" pos="0,0,0" publishUnderTab="Drawing_3">
       <options>
        <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -793,10 +805,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -826,9 +834,8 @@
      </module>
      <module type="READ" name="Drawing_2" pos="0,0,0" publishUnderTab="Drawing">
       <options>
-       <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -902,10 +909,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -935,8 +938,8 @@
      </module>
      <module type="READ" name="Head" pos="0,0,0" publishUnderTab="Head">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1010,10 +1013,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -1043,8 +1042,8 @@
      </module>
      <module type="READ" name="Arms" pos="0,0,0" publishUnderTab="Arms">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1118,10 +1117,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -1151,8 +1146,8 @@
      </module>
      <module type="READ" name="Torso" pos="0,0,0" publishUnderTab="Torso">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1226,10 +1221,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -1259,9 +1250,8 @@
      </module>
      <module type="READ" name="Legs" pos="0,0,0" publishUnderTab="Legs">
       <options>
-       <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1335,10 +1325,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -1368,8 +1354,8 @@
      </module>
      <module type="READ" name="Legs_1" pos="0,0,0" publishUnderTab="Legs">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1443,10 +1429,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="N"/>
@@ -1476,8 +1458,8 @@
      </module>
      <module type="READ" name="OB_run" pos="0,0,0" publishUnderTab="OB_run">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1551,10 +1533,6 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
        <applyMatteToColor val="W"/>
